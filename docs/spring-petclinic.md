@@ -1,6 +1,6 @@
 # The Spring PetClinic example
 
-This is a step-by-step guide to recreating the System Context, Container and Component diagrams from the [Spring PetClinic example](https://structurizr.com/share/1), which are based upon the original version of the application. It assumes that you have working Java, Maven and git installations plus a development environment to write code. The full source code for this example can be found in [SpringPetClinic.java](https://github.com/structurizr/java/blob/master/structurizr-examples/src/com/structurizr/example/SpringPetClinic.java). 
+This is a step-by-step guide to recreating the System Context, Container and Component diagrams from the [Spring PetClinic example](https://structurizr.com/share/1), which are based upon the original version of the application. It assumes that you have working Java, Maven and git installations plus a development environment to write code. The full source code for this example can be found in [SpringPetClinic.java](https://github.com/structurizr/java-extensions/blob/master/structurizr-examples/src/com/structurizr/example/SpringPetClinic.java). 
 
 ## 1. Clone and build the Spring PetClinic code
 
